@@ -6,3 +6,4 @@ step_03
 pip install -r requirements.txt
 step_04 for jupyter notebook
 pip install -U ipykernel
+
