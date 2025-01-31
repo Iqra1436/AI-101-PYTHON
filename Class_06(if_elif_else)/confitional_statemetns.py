@@ -111,3 +111,14 @@ else:
 # else:
 #     print("Your given Alphabet is Consonant ")
 
+# # Conditions with input
+# user=str(input("Choose Your Fruits "))
+# if user=='Mango':
+#     print('Mango Available ')
+# elif user=='Orange':
+#     print('Orange Available ')
+# elif user=='Apple':
+#     print('Apple Available')
+# else:
+#     print('Out of stock')
+
