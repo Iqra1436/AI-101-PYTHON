@@ -122,3 +122,16 @@ else:
 # else:
 #     print('Out of stock')
 
+user=str(input("Where will you want to go "))
+city=("karachi","hyderabad","lahore")
+# in
+# if user in city:
+#     print("you can reached ",user,"by bus in 2 hours")
+# else:
+#     print("You can't reached",user,"by bus in 2 housr")
+# not in
+# if user not in city:
+#         print("You can't reached",user,"by bus in 2 housr")
+
+# else:
+#     print("you can reached ",user,"by bus in 2 hours")
