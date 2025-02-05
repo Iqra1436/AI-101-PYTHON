@@ -15,7 +15,8 @@ finally:
 #  Pracice with Dictionary
 d={1:"Iqra",2:"karachi"}
 try:
-    x=int(input("Key enter "))
+    x=int(input("Key enter ")).
+
     print(d[x])
 except KeyError as k:
     print(k,"key error")
