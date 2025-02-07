@@ -4,6 +4,7 @@
 # for i,q in zip(list,list2):
 #     print(f" list 1 {i} \n list 2 {q}")
 
+
 # Task 
 # list=[]
 # # create input 

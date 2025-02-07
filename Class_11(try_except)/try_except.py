@@ -7,16 +7,15 @@ except ValueError as v:
     print("Value Error", v)
 except ZeroDivisionError as z:
     print("ZeroDivisionError",z)
-# else:
-    # print("Error")
+else:
+    print("Error")
 finally:
     print("End")
 
 #  Pracice with Dictionary
 d={1:"Iqra",2:"karachi"}
 try:
-    x=int(input("Key enter ")).
-
+    x=int(input("Key enter "))
     print(d[x])
 except KeyError as k:
     print(k,"key error")
@@ -25,8 +24,8 @@ except ValueError as i:
 
 #raise
 name=str(input("Enter Your Name "))
-num =int(input("Enter Your Numer "))
-if name == "huzaifa" and num ==18:
+age=int(input("Enter Your Numer "))
+if name == "huzaifa" and age == 18:
     raise Exception("Welcome Huzaifa")
 print("Failed")
 
