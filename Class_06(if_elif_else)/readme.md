@@ -2,9 +2,6 @@
 
 This guide provides an overview of Python's control flow structures including if, if-else, if-elif-else, and nested if-else-elif statements. Additionally, it covers the use of Python's static type variables, the `Union` and `Optional` types from the `typing` module, the `zip` function with lists, and sorting a list of tuples based on the second tuple index.
 
-## Youtube link 
-2 hours live session: https://youtube.com/live/ASNTpFSQHPo
-
 ## Table of Contents
 
 - [If Statement](#if-statement)
